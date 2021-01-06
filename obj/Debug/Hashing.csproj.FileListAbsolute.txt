@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\Hashing\Hashing\bin\Debug\Hashing.exe.config
+C:\Users\alex303a\source\repos\Hashing\Hashing\bin\Debug\Hashing.exe
+C:\Users\alex303a\source\repos\Hashing\Hashing\bin\Debug\Hashing.pdb
+C:\Users\alex303a\source\repos\Hashing\Hashing\obj\Debug\Hashing.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\Hashing\Hashing\obj\Debug\Hashing.exe
+C:\Users\alex303a\source\repos\Hashing\Hashing\obj\Debug\Hashing.pdb
